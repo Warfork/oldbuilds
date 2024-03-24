@@ -1,0 +1,1 @@
+Before attempting to launch an old version of Warfork for the first time, ensure that you copy the data PK3 files from the basewf folder in the current version to the basewf folder in the old version.
